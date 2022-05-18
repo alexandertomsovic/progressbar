@@ -1,4 +1,4 @@
-# Progress bar loading animation
+# Progress Bar Loading Animation
 
 ### The progress bar immitates a loading animation inside the terminal for the beginning of your project to start off seamlessly!
 
